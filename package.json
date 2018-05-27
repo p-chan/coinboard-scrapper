@@ -1,0 +1,17 @@
+{
+  "name": "coinboard-scrapper",
+  "version": "0.1.0",
+  "description": "A scraping module of coinboard.me",
+  "main": "index.js",
+  "dependencies": {
+    "chromy": "^0.5.11",
+    "dotenv": "^5.0.1",
+    "puppeteer": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "P-Chan",
+  "license": "MIT"
+}
